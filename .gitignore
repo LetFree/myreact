@@ -1,0 +1,4 @@
+node_modules/
+dist/
+myreact.code-workspace
+package-lock.json
